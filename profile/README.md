@@ -10,15 +10,14 @@
 
 ## 👩‍💻👨‍💻 Who are we?
 
-We are a French startup crafting a platform for developers to improve their code quality through unit test acceleration.
+We are a startup crafting a platform for developers to improve their code quality through unit test acceleration.
 
 ### 🏃🏽‍♀️ Quick links
 
-- Our website: https://www.Lozicode.com/
+- Our website: https://www.lozicode.com/
 
 - Our Community Slack: https://Lozicode-community.slack.com/
 
-- Our Platform to get your token: https://app.Lozicode.com
 
 <!-- ## 🦄 The team -->
 
