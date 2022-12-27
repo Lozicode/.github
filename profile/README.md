@@ -13,9 +13,14 @@
 We are a startup crafting a platform for developers to improve their code quality through unit test acceleration.
 
 ## Features
+- Run file:
+![Alt Text](https://github.com/Lozicode/.github/blob/main/gif/lozicode-runfile.gif)
 
+- Generate jest test:
 ![Alt Text](https://github.com/Lozicode/.github/blob/main/gif/lozicode-jesttest.gif)
 
+- Generate snap test:
+![Alt Text](https://github.com/Lozicode/.github/blob/main/gif/lozicode-snaptest.gif)
 
 ### 🏃🏽‍♀️ Quick links
 
