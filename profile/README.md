@@ -12,6 +12,11 @@
 
 We are a startup crafting a platform for developers to improve their code quality through unit test acceleration.
 
+## Features
+
+![Alt Text](https://github.com/Lozicode/.github/blob/main/gif/lozicode-jesttest.gif)
+
+
 ### 🏃🏽‍♀️ Quick links
 
 - Our website: https://www.lozicode.com/
