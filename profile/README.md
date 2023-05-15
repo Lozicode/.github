@@ -24,6 +24,7 @@ We are a startup crafting a platform for developers to improve their code qualit
 ![Alt Text](https://github.com/Lozicode/.github/raw/main/gif/lozicode-rundefault.gif)
 
 - Generate jest test:
+
 ![Alt Text](https://github.com/Lozicode/.github/blob/main/gif/lozicode-jesttest.gif)
 
 - Generate snap test:
