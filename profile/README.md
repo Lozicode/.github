@@ -8,6 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+our+official+GitHub;Lozicode+helps+with+code+quality)](https://git.io/typing-svg)
 
+[Direct link to Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=lozicode.lozicode-jest)
+
 ## 👩‍💻👨‍💻 Who are we?
 
 We are a startup crafting a platform for developers to improve their code quality through unit test acceleration.
